@@ -79,3 +79,19 @@ ul li {
     font-size: 1.1em;
     margin: 16px 0 16px 15px;
 }
+
+/* Qoute */
+blockquote {
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+
+#tribute-info h3 {
+    text-align: center;
+}
+
+
+h3 a {
+    color: #477ca7;
+}
