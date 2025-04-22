@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+#main {
+    margin: 30px 8px;
+    background: #eee;
+    height: 100vh;
+    text-align: center;
+}
+
+#main #title {
+    padding: 10px 0;
+    font-size: 2.5em;
+}
+
+#main p {
+    font-size: 1.2em;
+}
+
+@media (max-width: 460px) {
+    #main {
+        margin: 0;
+    }
+
+    #main #title {
+        font-size: 1.9em;
+    }
+}
