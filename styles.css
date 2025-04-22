@@ -30,3 +30,25 @@
         font-size: 1.9em;
     }
 }
+
+/* image */
+
+#img-div {
+    margin: 30px 15px;
+    padding: 10px;
+    background: white;
+}
+
+#img-div img {
+    display: block;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#img-div figcaption {
+    margin: 15px 0 5px 0;
+    text-align: center;
+    font-size: 1.1em;
+}
